@@ -1,0 +1,8 @@
+# Ignore raw data files
+data/raw/*
+!data/raw/.gitkeep
+
+# Python & environment
+__pycache__/
+.ipynb_checkpoints/
+*.env
